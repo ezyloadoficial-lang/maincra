@@ -1,0 +1,23 @@
+{
+	id: "90a65caf-22a5-4e46-9e6f-6f829f2f1625"
+	type: "party"
+	owner: "d1770db7-43dd-3083-95dd-f91cd2eb2fb2"
+	ranks: {
+		d1770db7-43dd-3083-95dd-f91cd2eb2fb2: "owner"
+		37a35d61-c727-3734-8efc-42f69805ddd0: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "Los kcados"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BE59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1787865213281L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Rintor_SK\"}]}" }
+		{ from: "d1770db7-43dd-3083-95dd-f91cd2eb2fb2", date: 1787865213299L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MadaraUchiha2909\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1787865217065L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MadaraUchiha2909\"}]}" }
+		{ from: "d1770db7-43dd-3083-95dd-f91cd2eb2fb2", date: 1787866596888L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"MadaraUchiha2909\"}]}" }
+	]
+	extra: { }
+}

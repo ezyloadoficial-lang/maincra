@@ -1,0 +1,15 @@
+{
+	id: "d1770db7-43dd-3083-95dd-f91cd2eb2fb2"
+	type: "player"
+	player_name: "Rintor_SK"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Rintor_SK"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BE59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
